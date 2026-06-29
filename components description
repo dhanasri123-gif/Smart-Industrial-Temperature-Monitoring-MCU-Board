@@ -9,7 +9,7 @@ DESCRIPTION:DC Power Jack Connector WR-DC, Male, Right Angled, THT, 2 A, 30 V
 DATASHEET:694103303002 Datasheet WR-DC DC Power Jack Right Angled THT 
 
 Electrical Specifications
-Rated Voltage: 20 V DC (maximum)
+Rated Voltage: 20 V DC (maximum\
 Current Rating: 3 A (maximum)
 
 The barrel jack is used as the DC power input connector of the circuit. It allows an external adapter to safely supply power to the PCB. The built-in switching contact can automatically disconnect a backup battery or detect plug insertion when external power is connected. It acts as the main interface between the power supply and the electronic circuit. 
