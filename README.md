@@ -30,11 +30,17 @@ OUTPUT SECTION Buzzer (alarm system via transistor driver) 3 Red LED indicators 
 
 SCHEMATIC
 
-Screenshot 2026-06-20 141443 Screenshot 2026-06-20 142010
+<img width="872" height="575" alt="image" src="https://github.com/user-attachments/assets/8a8495e6-c70a-4fe5-827a-39bba7900b49" />
+<img width="1161" height="650" alt="image" src="https://github.com/user-attachments/assets/3837365e-1a03-4d85-8364-b86f73d2cc6d" />
+
 LAYOUT
 
-Screenshot 2026-06-20 142152 image
+<img width="502" height="318" alt="image" src="https://github.com/user-attachments/assets/7a22e084-47fc-4bde-9c91-c4a41b1cefc4" />
+<img width="506" height="323" alt="image" src="https://github.com/user-attachments/assets/4ab6f0b6-d4f4-4759-b595-7b79d927fbe7" />
+
+
 3D MODEL
 
-Screenshot 2026-06-20 142246
+<img width="486" height="320" alt="image" src="https://github.com/user-attachments/assets/9d5ff4f2-93d9-4a3a-88bb-31659ecc5e3d" />
+
 FEATURES Multi-level protection (PTC + TVS + reverse polarity) Wi-Fi based IoT monitoring (ESP8266) Real-time temperature monitoring (LM35) Electrical isolation for safety (PC817) Non-volatile data storage (EEPROM)
