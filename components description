@@ -14,7 +14,6 @@ Current Rating: 3 A (maximum)
 
 The barrel jack is used as the DC power input connector of the circuit. It allows an external adapter to safely supply power to the PCB. The built-in switching contact can automatically disconnect a backup battery or detect plug insertion when external power is connected. It acts as the main interface between the power supply and the electronic circuit. 
 
-
 2.USB PORT:
 
 DESCRIPTION:USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle USB-A-S-X-X-TH-R
