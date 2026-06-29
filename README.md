@@ -42,5 +42,7 @@ LAYOUT
 3D MODEL
 
 <img width="486" height="320" alt="image" src="https://github.com/user-attachments/assets/9d5ff4f2-93d9-4a3a-88bb-31659ecc5e3d" />
+<img width="1048" height="601" alt="Screenshot 2026-06-24 085353" src="https://github.com/user-attachments/assets/09f90a2b-4d17-45f3-957d-bdb3bb883250" />
+
 
 FEATURES Multi-level protection (PTC + TVS + reverse polarity) Wi-Fi based IoT monitoring (ESP8266) Real-time temperature monitoring (LM35) Electrical isolation for safety (PC817) Non-volatile data storage (EEPROM)
