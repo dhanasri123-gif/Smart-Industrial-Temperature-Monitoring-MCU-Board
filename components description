@@ -220,13 +220,7 @@ LM2596 Buck Converter
 ↓
 PIC16F877A + LM35 + EEPROM+3.3V regulator+sensors
 ↓
-3.3 V OUTPUT
-↓
-ESP-01M Wi-Fi Module+DISPLAY(if connected through I2C)
-
-COMPONENT  RATING:
-
-Component
+3.3 V OU
 Operating Voltage
 Current Rating
 DC Barrel Jack (694106402002)
